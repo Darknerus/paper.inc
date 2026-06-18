@@ -18,7 +18,7 @@ body {
 /* || typography */
 
 h1, h2, h3 {
-  font-family: 'Sonsie One', cursive;
+  font-family: 'Times new roman';
   color: #2a2a2a;
 }
 
@@ -51,13 +51,13 @@ p, li {
 /* || header layout */
 
 nav, article, aside, footer {
-  background-color: white;
+  background-color: rgb(250, 136, 136);
   padding: 1%;
 }
 
 nav {
-  height: 50px;
-  background-color: #ff80ff;
+  height: 70px;
+  background-color: rgb(255, 234, 49);
   display: flex;
   margin-bottom: 10px;
 }
@@ -121,7 +121,7 @@ article {
 aside {
   flex: 1;
   margin-left: 10px;
-  background-color: #ff80ff;
+  background-color: #ffee00;
 }
 
 aside li {
